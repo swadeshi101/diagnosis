@@ -1,1 +1,1 @@
-"Please visit wiki for documentation"
+Please visit wiki for documentation
